@@ -10,4 +10,4 @@ window.WLLV_FIREBASE_PUBLIC_CONFIG = {
 };
 /* Después de activar GitHub Pages, rellena esta URL o introdúcela
    desde Nube / QR en el campo "URL pública HTTPS" de tu ordenador. */
-window.WLLV_PUBLIC_URL = '';
+window.WLLV_PUBLIC_URL = 'https://cristianbg111.github.io/we-love-live-videos/';
